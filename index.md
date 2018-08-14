@@ -6,7 +6,7 @@ Here is where I will post the schedule for this semester.
 
 # Week 1
 
-- Lecture Slides
+- [Lecture Slides] 
 
 ## Week 2
 ### Week 3
