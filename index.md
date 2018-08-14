@@ -1,19 +1,15 @@
-## Intro to Linux
+Welcome to Intro to Linux! 
 
-You can use the [editor on GitHub](https://github.com/kellyn-larson/kellyn-larson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is where I will post the schedule for this semester.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Schedule
 
-### Markdown
+# Week 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Lecture Slides
 
-```markdown
-Syntax highlighted code block
-
-# Header
-## Header 2
-### Header 3
+## Week 2
+### Week 3
 
 - Bulleted
 - List
@@ -23,10 +19,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
