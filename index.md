@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Intro to Linux
 
 You can use the [editor on GitHub](https://github.com/kellyn-larson/kellyn-larson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
