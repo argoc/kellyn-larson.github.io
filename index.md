@@ -7,6 +7,7 @@ Here is where I will post the schedule for this semester.
 # Week 1
 
 - [Lecture Slides] 
+- [Choose Editor Assignment] (https://kellyn-larson.github.io/Assignments/chooseEditor.txt)
 
 ## Week 2
 ### Week 3
