@@ -19,7 +19,19 @@ Here is where I will post the schedule for this semester.
 
 ## Week 2
 - Interacting with the Command Line
---* df
+   * `script/scriptreplay`
+   * `man`
+   * `apropos`
+   * `pwd`
+   * `ls`
+   * `cd`
+   * `less`
+   * `mkdir`
+   * `rmdir`
+   * `mv`
+   * `cp`
+- Start a `CHEATSHEET.LNX` file for notes
+- Understand the meaning of ~,., and ..
 
 ## Week 3
 
