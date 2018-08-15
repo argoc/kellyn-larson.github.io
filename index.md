@@ -18,6 +18,8 @@ Here is where I will post the schedule for this semester.
 - Remote Login
 
 ## Week 2
+- Interacting with the Command Line
+
 ## Week 3
 
 - Bulleted
