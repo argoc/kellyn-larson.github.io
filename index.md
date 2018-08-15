@@ -19,6 +19,7 @@ Here is where I will post the schedule for this semester.
 
 ## Week 2
 - Interacting with the Command Line
+--* df
 
 ## Week 3
 
