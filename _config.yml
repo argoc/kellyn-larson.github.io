@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: CSCI 274 - Intro to Linux
+github:
+  is_project_page: false
