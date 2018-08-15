@@ -1,10 +1,12 @@
+
+
+# [Syllabus](https://kellyn-larson.github.io/csci-274-syllabus.pdf)  [Learning Goals](https://kellyn-larson.github.io/learning-goals.txt)
+
+# Schedule
+
 Welcome to Intro to Linux! 
 
 Here is where I will post the schedule for this semester.
-
-# [Syllabus](https://kellyn-larson.github.io/csci-274-syllabus.pdf)
-
-# Schedule
 
 ## Week 1
 
