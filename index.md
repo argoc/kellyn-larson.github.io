@@ -11,8 +11,11 @@ Here is where I will post the schedule for this semester.
 
 ## Week 1
 
-- [Lecture Slides] 
+- Review Syllabus and Introduce Course
+- [Lecture Slides](https://kellyn-larson.github.io/01_lecture1.pdf)
+- The Editor War `vim` or `emacs`?
 - [Choose Editor Assignment](https://kellyn-larson.github.io/chooseEditor.txt)
+- Remote Login
 
 ## Week 2
 ## Week 3
