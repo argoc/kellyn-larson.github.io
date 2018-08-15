@@ -2,15 +2,17 @@ Welcome to Intro to Linux!
 
 Here is where I will post the schedule for this semester.
 
-## Schedule
+# [Syllabus](https://kellyn-larson.github.io/csci-274-syllabus.pdf)
 
-# Week 1
+# Schedule
+
+## Week 1
 
 - [Lecture Slides] 
 - [Choose Editor Assignment](https://kellyn-larson.github.io/chooseEditor.txt)
 
 ## Week 2
-### Week 3
+## Week 3
 
 - Bulleted
 - List
