@@ -14,7 +14,6 @@ Here is the tentative schedule of topics covered during this course, which is su
 - [Lecture Slides](https://kellyn-larson.github.io/01_lecture1.pdf)
 - The Editor War `vim` or `emacs`?
 - [Choose Editor Assignment](https://kellyn-larson.github.io/chooseEditor.txt) - **Due August 31 by 11:59 PM**
-- Remote Login
 
 ## Week 2
 - Interacting with the Command Line
@@ -31,6 +30,7 @@ Here is the tentative schedule of topics covered during this course, which is su
    * `cp`
 - Start a `CHEATSHEET.LNX` file for notes
 - Understand the meaning of ~,., and ..
+- Remote Login
 
 ## Week 3
 - Command Line Options 
