@@ -7,7 +7,7 @@
 
 Welcome to Intro to Linux! 
 
-Here is where I will post the schedule for this semester.
+Here is the tentative schedule of topics covered during this course, which is subject to be changed and updated as we go along. 
 
 ## Week 1
 
@@ -34,20 +34,16 @@ Here is where I will post the schedule for this semester.
 - Understand the meaning of ~,., and ..
 
 ## Week 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kellyn-larson/kellyn-larson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Command Line Options 
+- Aliases
+   * `alias`
+   * `unalias`
+   * Alias bypassing
+- The ~/. `bashrc` configuration file
+- UNIX-style filesystems:
+   * `touch`
+   * `rm`
+   * `find`
+- Filesharing
+   * `wget`
+   * `tar`
