@@ -1,9 +1,8 @@
 
+# Schedule
 
 ### [Syllabus](https://kellyn-larson.github.io/csci-274-syllabus.pdf)       
 ### [Learning Goals](https://kellyn-larson.github.io/learning-goals.txt)
-
-# Schedule
 
 Welcome to Intro to Linux! 
 
