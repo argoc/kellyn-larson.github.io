@@ -51,41 +51,41 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Interrogating Files 
  - I/O Manipulation 
  
- ## Week 5 
+## Week 5 
  - UnixHistory.sh Assignment Description
  - Variables 
  - Quoting
  - `bash` Scripting 
  - Wildcards and globbing 
  
- ## Week 6 
+## Week 6 
  - Control Signals 
  - Exit Status: $?
  - Command Line Arguments for shell scripts
  - Loop Constructs: while-do-done
  
- ## Week 7 
+## Week 7 
  - Quoth.sh Assignment Description 
  - Process Control 
  - Conditional Constructs 
  - Script `exit` status 
  
- ## Week 8 
+## Week 8 
  - TitleCheck.sh Assignment Description
  - Go over midterm 
  - Pattern-centric Control Structures
  
- ## Week 9 
+## Week 9 
  - Common Pipeline Utilities 
  - Pipeline Exercises 
  
- ## Week 10 
+## Week 10 
  - LiteLifting.sh AssignmentDescription 
  - Regular Expressions (regex) 
  - Stream Editing 
  
- ## Week 11  
+## Week 11  
  - Identity, Ownership, and Permissions
  
- ## Week 12 
+## Week 12 
  - Inodes and Linking 
