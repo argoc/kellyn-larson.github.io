@@ -29,7 +29,7 @@ Here is the tentative schedule of topics covered during this course, which is su
    * `cp`
 - Start a `CHEATSHEET.LNX` file for notes
 - Understand the meaning of ~,., and ..
-- Remote Login
+- [Remote Login: PuTTY and `pscp`](https://kellyn-larson.github.io/remote_login.txt)
 
 ## Week 3 
 - Command Line Options 
