@@ -70,7 +70,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Conditional Constructs 
  - Script `exit` status 
  
- # Week 8 
+ ## Week 8 
  - TitleCheck.sh Assignment Description
  - Go over midterm 
  - Pattern-centric Control Structures
