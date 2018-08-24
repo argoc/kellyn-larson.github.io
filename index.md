@@ -8,14 +8,14 @@ Welcome to Intro to Linux!
 
 Here is the tentative schedule of topics covered during this course, which is subject to be changed and updated as we go along. 
 
-## Week 1
+## Week 1 
 
 - Review Syllabus and Introduce Course
 - [Lecture Slides](https://kellyn-larson.github.io/01_lecture1.pdf)
 - The Editor War `vim` or `emacs`?
 - [Choose Editor Assignment](https://kellyn-larson.github.io/chooseEditor.txt) - **Due August 31 by 11:59 PM**
 
-## Week 2
+## Week 2 
 - Interacting with the Command Line
    * `man`
    * `apropos`
@@ -31,7 +31,7 @@ Here is the tentative schedule of topics covered during this course, which is su
 - Understand the meaning of ~,., and ..
 - Remote Login
 
-## Week 3
+## Week 3 
 - Command Line Options 
 - Aliases
    * `alias`
@@ -45,3 +45,47 @@ Here is the tentative schedule of topics covered during this course, which is su
 - Filesharing
    * `wget`
    * `tar`
+ 
+ ## Week 4 
+ - CHEATSHEET.LNX Submission Description
+ - Interrogating Files 
+ - I/O Manipulation 
+ 
+ ## Week 5 
+ - UnixHistory.sh Assignment Description
+ - Variables 
+ - Quoting
+ - `bash` Scripting 
+ - Wildcards and globbing 
+ 
+ ## Week 6 
+ - Control Signals 
+ - Exit Status: $?
+ - Command Line Arguments for shell scripts
+ - Loop Constructs: while-do-done
+ 
+ ## Week 7 
+ - Quoth.sh Assignment Description 
+ - Process Control 
+ - Conditional Constructs 
+ - Script `exit` status 
+ 
+ ## Week 8 
+ - TitleCheck.sh Assignment Description
+ - Go over midterm 
+ - Pattern-centric Control Structures
+ 
+ ## Week 9 
+ - Common Pipeline Utilities 
+ - Pipeline Exercises 
+ 
+ ## Week 10 
+ - LiteLifting.sh AssignmentDescription 
+ - Regular Expressions (regex) 
+ - Stream Editing 
+ 
+ ## Week 11  
+ - Identity, Ownership, and Permissions
+ 
+ ## Week 12 
+ - Inodes and Linking 
