@@ -46,7 +46,7 @@ Here is the tentative schedule of topics covered during this course, which is su
    * `wget`
    * `tar`
  
- ## Week 4 
+## Week 4 
  - CHEATSHEET.LNX Submission Description
  - Interrogating Files 
  - I/O Manipulation 
