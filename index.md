@@ -17,6 +17,7 @@ Here is the tentative schedule of topics covered during this course, which is su
 
 ## Week 2 
 - Interacting with the Command Line
+   * 'script'(https://kellyn-larson.github.io/script.txt)
    * `man`
    * `apropos`
    * `pwd`
