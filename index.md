@@ -33,7 +33,6 @@ Here is the tentative schedule of topics covered during this course, which is su
 - [Remote Login: PuTTY and `pscp`](https://kellyn-larson.github.io/remote_login.txt)
 
 ## Week 3 
-- Command Line Options 
 - Aliases
    * `alias`
    * `unalias`
@@ -50,7 +49,15 @@ Here is the tentative schedule of topics covered during this course, which is su
 ## Week 4 
  - CHEATSHEET.LNX Submission Description
  - Interrogating Files 
+     * `wc`
+     * `file`
+     * `stat`
+     * `df`
+     * `du`
  - I/O Manipulation 
+     * Redirection <, >, >>
+     * Pipeline | 
+     * /dev/null
  
 ## Week 5 
  - UnixHistory.sh Assignment Description
