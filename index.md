@@ -45,6 +45,7 @@ Here is the tentative schedule of topics covered during this course, which is su
 - Filesharing
    * `wget`
    * `tar`
+   * Example tarball: [example.tar.bz](https://kellyn-larson.github.io/example.tar.bz)
  
 ## Week 4 
  - CHEATSHEET.LNX Submission Description
