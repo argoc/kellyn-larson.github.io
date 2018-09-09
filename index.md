@@ -38,31 +38,31 @@ Here is the tentative schedule of topics covered during this course, which is su
    * `unalias`
    * Alias bypassing
 - The ~/. `bashrc` configuration file
-- UNIX-style filesystems:
+- Interogatting Files:
    * `touch`
    * `rm`
    * `find`
+   * `wc`
+   * `file`
+   * `stat`
+   * `df`
 - Filesharing
    * `wget`
    * `tar`
    * Example tarball: [example.tar.bz](https://kellyn-larson.github.io/example.tar.bz)
  
 ## Week 4 
- - CHEATSHEET.LNX Submission Description
- - Interrogating Files 
-     * `wc`
-     * `file`
-     * `stat`
-     * `df`
-     * `du`
+ - CHEATSHEET.LNX Submission Description 
  - I/O Manipulation 
      * Redirection <, >, >>
      * Pipeline \| 
      * /dev/null
+ - Variables
+     * `export`
+     * `read`
  
 ## Week 5 
  - UnixHistory.sh Assignment Description
- - Variables 
  - Quoting
  - `bash` Scripting 
  - Wildcards and globbing 
