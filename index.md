@@ -57,7 +57,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `du`
  - I/O Manipulation 
      * Redirection <, >, >>
-     * Pipeline | 
+     * Pipeline \| 
      * /dev/null
  
 ## Week 5 
