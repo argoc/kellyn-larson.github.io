@@ -54,7 +54,7 @@ Here is the tentative schedule of topics covered during this course, which is su
 ## Week 4 
  - [CHEATSHEET.LNX Submission Description](https://kellyn-larson.github.io/cheatsheetsubmission.txt) - **Due September 28 by 11:59PM**
  - I/O Manipulation 
-     * Standard input, output, and error
+     * Standard input (STDIN), output (STDOUT), and error (STDERR)
      * Redirection <, >, >>, 2>, 2>>
      * Pipeline \| 
      * /dev/null
