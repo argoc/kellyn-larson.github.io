@@ -52,12 +52,14 @@ Here is the tentative schedule of topics covered during this course, which is su
    * Example tarball: [example.tar.bz](https://kellyn-larson.github.io/example.tar.bz)
  
 ## Week 4 
- - CHEATSHEET.LNX Submission Description 
+ - [CHEATSHEET.LNX Submission Description](https://kellyn-larson.github.io/cheatsheetsubmission.txt) - **Due September 28 by 11:59PM**
  - I/O Manipulation 
+     * Standard input, output, and error
      * Redirection <, >, >>
      * Pipeline \| 
      * /dev/null
  - Variables
+     * Environment vs local/shell variables
      * `export`
      * `read`
  
@@ -72,6 +74,12 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Exit Status: $?
  - Command Line Arguments for shell scripts
  - Loop Constructs: while-do-done
+ 
+ ### Midterm October 11th 7:30 - 9:00 PM
+ ### Room Assignments
+   - **Section A: MZ 026**
+   - **Section B: MZ 022**
+   - **Section C: CT B56**
  
 ## Week 7 
  - Quoth.sh Assignment Description 
