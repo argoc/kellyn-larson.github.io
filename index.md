@@ -75,11 +75,11 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Command Line Arguments for shell scripts
  - Loop Constructs: while-do-done
  
- ### Midterm October 11th 7:30 - 9:00 PM
- ### Room Assignments
-   - **Section A: MZ 026**
-   - **Section B: MZ 022**
-   - **Section C: CT B56**
+### Midterm October 11th 7:30 - 9:00 PM
+### Room Assignments
+  - **Section A: MZ 026**
+  - **Section B: MZ 022**
+  - **Section C: CT B56**
  
 ## Week 7 
  - Quoth.sh Assignment Description 
