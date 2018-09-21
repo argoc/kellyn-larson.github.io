@@ -1,27 +1,28 @@
-Symbol	  | Description
+Symbol	  - Description
 -------------------------------
->	  | Redirects standard output to a file. 
-	    EX: echo "Hello World!" > new.txt where new.txt is overwritten if it                exists and created if it does not
+>	  - Redirects standard output to a file. 
+	    EX: echo "Hello World!" > new.txt where new.txt is overwritten if it exists and creates 
+	        it if it does not
 
->>	  | Redirects standard output to a file, appending to existing file
+>>	  - Redirects standard output to a file, appending to existing file
 	    EX: echo "Hello World!" >> new.txt where "Hello World!" is appended
                 to existing content of new.txt
 
-<	  | Redirects standard input to be taken from a file
-            EX: read < new.txt HELLO, the value of variable HELLO is becomes the                contents of the new.txt file, rather than requiring the user to
-                input the value at the terminal
+<	  - Redirects standard input to be taken from a file
+            EX: read < new.txt HELLO, the value of variable HELLO is becomes the contents of the new.txt file, 
+	    rather than requiring the user to input the value at the terminal
 
->2/>>2    | Redirects standard error to a file, 
+>2/>>2    - Redirects standard error to a file, 
             EX: cat does_not_exist >2 stderr, stderr now contains the error, 
                 use >>2 to append to a file
 
-|	  | Pipeline, redirects standard output from left command and sends it
+|	  - Pipeline, redirects standard output from left command and sends it
             to the right command as its standard input
             EX: ls | wc -l, sends contents of current directory to wc -l to 
                 count the number of lines (filesystem objects) 
 
-0	 | Standard input (STDIN)
+0	  - Standard input (STDIN)
 
-1	 | Standard output (STDOUT)
+1	  - Standard output (STDOUT)
 
-2	 | Standard error (STDERR) 
+2	  - Standard error (STDERR) 
