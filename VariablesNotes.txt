@@ -2,7 +2,7 @@ Environtment Variables	- the environment is an area that the shell builds every 
                           Environment variables are those that define system properties and allow programs
                           to function correctly. They are available to any child process of the shell. 
                           EX: SHELL = /bin/bash (name of shell we are using)
-                              HOME  = /u/kellarso (your home directory) 
+                              HOME  = /u/eu/dl/kellarso (your home directory) 
 
 
 Local Variables		- variables that are only present in the current instance or session of the shell. 
