@@ -1,0 +1,15 @@
+Environtment Variables	- the environment is an area that the shell builds every time its starts a session. 
+                          Environment variables are those that define system properties and allow programs
+                          to function correctly. They are available to any child process of the shell. 
+                          EX: SHELL = /bin/bash (name of shell we are using)
+                              HOME  = /u/kellarso (your home directory) 
+
+
+Local Variables		- variables that are only present in the current instance or session of the shell. 
+                          These can be set at the command prompt and are not accessable to child processes. 
+                          EX: NAME="Kellyn", variable named NAME has value of NAME
+                              unset NAME, delete variable
+                              readonly NAME, make variable read only so that it cannot be deleted or set to
+                                             a different value
+                              echo $NAME, the $ symbol is needed in order to expand variable to its value
+                          
