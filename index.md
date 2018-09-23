@@ -64,10 +64,18 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `read`
  
 ## Week 5 
- - UnixHistory.sh Assignment Description
- - Quoting
- - `bash` Scripting 
+ - UnixHistory.sh Assignment Description - **Due October 5th by 11:59PM**
  - Wildcards and globbing 
+     * \*
+     * ?
+     * Bracket Usage: [abc], [A-C], [!a], etc
+     * Brace Expansion: {A..Z}, {A,B,C}, etc
+ - Quoting
+     * 'Single Quotes' vs. "Double Quotes"
+ - [`bash` Scripting](https://http://tldp.org/LDP/abs/html/)
+     * Example: shell-dessert.sh
+     * `-e` and `-x` flags
+
  
 ## Week 6 
  - Control Signals 
