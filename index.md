@@ -64,7 +64,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `read`
  
 ## Week 5 
- - UnixHistory.sh Assignment Description - **Due October 5th by 11:59PM**
+ - [UnixHistory.sh Assignment Description](https://kellyn-larson.github.io/UnixHistoryDescription.txt) - **Due October 5th by 11:59PM**
  - Wildcards and globbing 
      * \*
      * ?
@@ -73,7 +73,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Quoting
      * 'Single Quotes' vs. "Double Quotes"
  - [`bash` Scripting](http://tldp.org/LDP/abs/html/)
-     * Example: shell-dessert.sh
+     * Example: [shell-dessert.sh](https://kellyn-larson.github.io/shell-dessert.sh)
      * `-e` and `-x` flags
 
  
