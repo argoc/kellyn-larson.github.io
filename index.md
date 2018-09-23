@@ -72,7 +72,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * Brace Expansion: {A..Z}, {A,B,C}, etc
  - Quoting
      * 'Single Quotes' vs. "Double Quotes"
- - [`bash` Scripting](https://http://tldp.org/LDP/abs/html/)
+ - [`bash` Scripting](http://tldp.org/LDP/abs/html/)
      * Example: shell-dessert.sh
      * `-e` and `-x` flags
 
