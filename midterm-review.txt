@@ -1,0 +1,68 @@
+Be familiar with the following topics for the midterm:
+
+Text Editors
+    
+    For your editor of choice, know the keystrokes to:
+    
+        - exit without saving
+        - save without exiting
+        - save and exit
+        - copy(yank),delete, and paste
+
+Terminal basics
+    
+	-Understand the information displayed in the bash prompt, for example:
+	   kellarso0@isengard:~/linux$	
+	   This prompt says I have a shell running on Host ______ as User ______ and my working directory is _________?
+    - Simple file navigation 
+    - Know the meaning of ~, ., and ..
+    - The importance of capitalization
+
+Commands to Be Familiar With
+
+    - ls and its -a and -l options
+    - cp and its -r option
+    - wc and its -c, -w, and -l options
+    - rm and its -r option
+    - bash and its -e and -x options
+	- mkdir and its -p option
+	- rmdir 
+	- pwd 
+	- mv
+	- cat 
+	- echo 
+	- touch
+	- file
+	- find 
+
+Variables
+    
+    - The different ways to set and see the contents of shell variables
+    - The difference between 'single' and "double" quotes
+    - Curly braces in variables
+    - What happens when you try to echo an unset variable
+
+Wildcards
+    
+    - *, ?, and the many ways to use []
+    - Be able to tell what a specific wildcard will match given the files/directories in the current working directory
+
+Basic Bash scripting
+    
+    - Command line arguments
+    - Be able to describe what a simple script does
+    - Be able to write a simple script
+	- How while-loops are structured
+
+I/O Manipulation/Redirection
+    
+    - Using the echo command
+    - <, >, >>, 2>, 2>>, and |
+
+Misc
+
+    - Exit status, $?
+        - What a zero vs. non-zero code means
+        - How to view it at the terminal
+    - Control signals (Ctrl-C, Ctrl-D, Ctrl-L, Ctrl-Z, Ctrl-R)
+	    - The difference between Ctrl-C (SIGINT) and Ctrl-D (EXIT)
