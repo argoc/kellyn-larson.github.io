@@ -11,7 +11,7 @@ Text Editors
 
 Terminal basics
     
-	-Understand the information displayed in the bash prompt, for example:
+    - Understand the information displayed in the bash prompt, for example:
 	   kellarso0@isengard:~/linux$	
 	   This prompt says I have a shell running on Host ______ as User ______ and my working directory is _________?
     - Simple file navigation 
@@ -25,15 +25,15 @@ Commands to Be Familiar With
     - wc and its -c, -w, and -l options
     - rm and its -r option
     - bash and its -e and -x options
-	- mkdir and its -p option
-	- rmdir 
-	- pwd 
-	- mv
-	- cat 
-	- echo 
-	- touch
-	- file
-	- find 
+    - mkdir and its -p option
+    - rmdir 
+    - pwd 
+    - mv
+    - cat 
+    - echo 
+    - touch
+    - file
+    - find 
 
 Variables
     
