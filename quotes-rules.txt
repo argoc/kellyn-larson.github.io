@@ -1,5 +1,5 @@
                 Env Var Subst | Wildcard Expansion
                 --------------+-------------------
- double quotes "  substitutes | disables (off)                                  
+double quotes "   substitutes | disables (off)                                  
 single quotes '  disables(off)| disables(off)            
 
