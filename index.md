@@ -65,12 +65,12 @@ Here is the tentative schedule of topics covered during this course, which is su
  
 ## Week 5 
  - [UnixHistory.sh Assignment Description](https://kellyn-larson.github.io/UnixHistoryDescription.txt) - **Due October 5th by 11:59PM**
- - Wildcards and globbing 
+ - [Wildcards and globbing](https://kellyn-larson.github.io/WildCardsNotes.txt)
      * \*
      * ?
      * Bracket Usage: [abc], [A-C], [!a], etc
      * Brace Expansion: {A..Z}, {A,B,C}, etc
- - Quoting
+ - [Quoting](https://kellyn-larson.github.io/quotes-rules.txt)
      * 'Single Quotes' vs. "Double Quotes"
  - [`bash` Scripting](http://tldp.org/LDP/abs/html/)
      * Example: [shell-dessert.sh](https://kellyn-larson.github.io/shell-dessert.sh)
@@ -78,13 +78,13 @@ Here is the tentative schedule of topics covered during this course, which is su
 
  
 ## Week 6 
- - Control Signals 
+ - [Control Signals](https://ss64.com/bash/syntax-keyboard.html)
       * CTRL-C
       * CTRL-D
       * CTRL-Z
       * CTRL-L
       * CTRL-R
- - Exit Status: $?
+ - [Exit Status: $?](https://bash.cyberciti.biz/guide/The_exit_status_of_a_command)
  - Command Line Arguments for shell scripts
       * $0, $1, $2...
       * $# and $@
