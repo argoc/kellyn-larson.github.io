@@ -65,7 +65,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  
 ## Week 5 
  - [UnixHistory.sh Assignment Description](https://kellyn-larson.github.io/UnixHistoryDescription.txt) - **Due October 5th by 11:59PM**
- - [Wildcards and globbing](https://kellyn-larson.github.io/WildCardsNotes.txt)
+ - [Wildcards and globbing](https://kellyn-larson.github.io/WildCardNotes.txt)
      * \*
      * ?
      * Bracket Usage: [abc], [A-C], [!a], etc
