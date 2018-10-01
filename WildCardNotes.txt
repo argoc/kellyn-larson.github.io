@@ -1,0 +1,11 @@
+* Matches zero or more characters
+
+? Matches exactly one character 
+
+[Ke] Matches exactly one character of the set K, e 
+
+[!aeiou] Matches exactly one character that is not a vowel 
+
+{xyz,abc} Matches the substrings xyz or abc 
+
+{xyz,abc,} Matches the substrings xyz, abc, or the EMPTY substring 
