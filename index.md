@@ -100,9 +100,20 @@ Here is the tentative schedule of topics covered during this course, which is su
   - **Section C: CT B56**
  
 ## Week 7 
- - Quoth.sh Assignment Description 
- - Process Control 
+ - [Quoth.sh Assignment Description](https://kellyn-larson.github.io/QuothDescription.txt) ([quotes.tar.gz](https://kellyn-larson.github.io/quotes.tar.gz)) - **Due October 26th by 11:59PM**  
+ - [Process Control](https://kellyn-larson.github.io/07_Process_Control.pdf) 
+      * `top`
+      * `ps`
+      * `nice`
+      * `jobs`
+      * `fg`
+      * `kill`
  - Conditional Constructs 
+      * `test`
+      * `true`
+      * `false`
+      * if-then-else
+      * Example: [decisions.sh](https://kellyn-larson.github.io/decisions.sh)
  - Script `exit` status 
  
 ## Week 8 
