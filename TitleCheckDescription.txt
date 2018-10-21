@@ -90,7 +90,7 @@ Hints
 
 Submission
 ==========
-Upload your TitleCheck.sh script to Canvas for grading.
+Submit your TitleCheck.sh script by uploading the file to Canvas.
 
 Rubric [23 points total]
 ======
