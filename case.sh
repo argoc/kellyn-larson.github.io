@@ -2,7 +2,7 @@ echo
 PROMPT="Hit a key, then hit return: "
 read -p "$PROMPT" key
 
-while [ $key != "X" ] ; do
+while true ; do
 	case "$key" in
   	  [A-Z]   ) echo "Uppercase letter";;
   	  [a-z]   ) echo "Lowercase letter";;
@@ -14,4 +14,3 @@ while [ $key != "X" ] ; do
 done     
 
 exit 0 
-
