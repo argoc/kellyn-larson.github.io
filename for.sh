@@ -35,4 +35,12 @@ do
   echo
 done
 
+#User input with multiple tokens
+read -p "Enter a sentence: " INPUT
+
+for word in $INPUT
+do
+  echo $word
+done
+
 exit 0
