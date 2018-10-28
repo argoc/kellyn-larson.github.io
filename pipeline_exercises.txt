@@ -1,0 +1,32 @@
+Give your answer to each question along with the command that yielded that answer.
+Use only commands that we've talked about. (cut, grep, wc, uniq, sort, sed, tr, head, tail, ...)
+
+Get the "Crime Records" data (near bottom of page) from: 
+https://support.spatialkey.com/spatialkey-sample-csv-data/
+You'll need to do this to get the newline characters right:
+tr "\r" "\n" < downloadedfile > newfile
+
+Or download the CSV from the course website.
+
+
+Questions:
+
+1. How many crimes happened on the 12th?
+
+2. How many lines in the file don't start with '1'? Which line(s)?
+
+3. Show all addresses and only addresses
+
+4. Show me all house numbers and only house numbers (not the first word of street names)
+
+5. How many code 2299 occurred?
+
+6. Write the descriptions (and nothing else) for all code 2299 to a file
+
+7. Give Lat+Long of every crime with 'THEFT' in the description
+
+8. How many crimes occurred on each day?
+
+9. Which day had most? least? median?
+
+10. Which crime code occurred most? How many times?

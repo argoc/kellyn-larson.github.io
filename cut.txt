@@ -1,0 +1,13 @@
+cut - cuts out sections of each line in a file and prints to standard output 
+
+cut [options] [FILE...]
+
+-b extracts by bytes 
+-c extracts by characters
+-f extracts by field 
+-d extract by given deliminator (TAB by default)
+
+cut -c 1,2 example.txt (Cut first two characters of each line in example.txt)
+cut -b 1-3 5-7 example.txt (Cut first three bytes and bytes 5,6,7 from each line in example.txt)
+cut -d ',' -f 2 example.txt (Using ',' as the deliminator, extract the second field from each line in example.txt. In other words
+                              the second item in a comma seperated list)
