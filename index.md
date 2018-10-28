@@ -131,7 +131,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `sort`
      * `tee`
      * `tr`
-     * [cut](https://kellyn-larson.github.io/cut.txt)
+     * [`cut`](https://kellyn-larson.github.io/cut.txt)
  - [Pipeline Exercises](https://kellyn-larson.github.io/pipeline_exercises.txt) ([pipeline_data.csv](https://kellyn-larson.github.io/pipeline_data.csv))
  
 ## Week 10 
