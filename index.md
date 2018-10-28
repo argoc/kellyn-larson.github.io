@@ -124,8 +124,15 @@ Here is the tentative schedule of topics covered during this course, which is su
       * [for-do-done](https://kellyn-larson.github.io/for.sh)
  
 ## Week 9 
- - Common Pipeline Utilities 
- - Pipeline Exercises 
+ - [Common Pipeline Utilities](https://kellyn-larson.github.io/10_CommonPipelineUtilities.pdf)
+     * `grep`
+     * `head`
+     * `tail`
+     * `sort`
+     * `tee`
+     * `tr`
+     * [cut](https://kellyn-larson.github.io/cut.txt)
+ - [Pipeline Exercises](https://kellyn-larson.github.io/pipeline_exercises.txt) ([pipeline_data.csv](https://kellyn-larson.github.io/pipeline_data.csv))
  
 ## Week 10 
  - LiteLifting.sh AssignmentDescription 
