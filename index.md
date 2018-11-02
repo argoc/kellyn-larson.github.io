@@ -133,7 +133,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `tr`
      * [`cut`](https://kellyn-larson.github.io/cut.txt)
  - [Pipeline Exercises](https://kellyn-larson.github.io/pipeline_exercises.txt) ([pipeline_data.csv](https://kellyn-larson.github.io/pipeline_data.csv))
- - [Pipeline Exercises Answers]
+ - [Pipeline Exercises Answers](https://kellyn-larson.github.io/pipeline_solutions.txt)
  
 ## Week 10 
  - LiteLifting.sh AssignmentDescription 
