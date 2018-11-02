@@ -1,0 +1,19 @@
+1. cut -c3-4 data.csv | grep 12 | wc -l
+
+2. grep -vc "^1" data.csv
+
+3. cut -d ',' -f 2 data.csv 
+
+4. cut -d ',' -f 2 data.csv | cut -d ' ' -f 1 | grep -v [A-Z]
+
+5. cut -d ',' -f 7 data.csv | grep 2299 | wc -l
+
+6. cut -d ',' -f6,7 data.csv | grep 2299 | cut -d ',' -f 1 > output_file.txt
+
+7. grep 'THEFT' data.csv | cut -d ',' -f 8-
+
+8. cut -d ' ' -f 1 data.csv | uniq -c
+
+9. cut -d ' ' -f 1 data.csv | uniq -c | sort -n
+
+10. cut -d ',' -f7 data.csv | sort -n | uniq -c | sort -n | tail -1
