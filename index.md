@@ -137,7 +137,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  
 ## Week 10 
  - [LiteLifting.sh Assignment Description](https://kellyn-larson.github.io/LiteLiftingDescription.txt) - **Due November 30th by 11:59PM**
- - Stream Editing
+ - [Stream Editing](https://kellyn-larson.github.io/12_sed.pdf)
      * `sed`
  - Regular Expressions (regex)
      * .
