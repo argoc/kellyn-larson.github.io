@@ -164,9 +164,15 @@ Here is the tentative schedule of topics covered during this course, which is su
  - [CHEATSHEET.lnx Final Submission Description](https://kellyn-larson.github.io/cheatsheet_final.txt) **Due December 7th by 11:59PM**
  - [Inodes and Linking](https://kellyn-larson.github.io/14_Inodes_and_Linking.pdf)
  - `ln`
- - `stat'
+ - `stat`
 
 ## Final Exam Review
   - [Review Guide](https://kellyn-larson.github.io/final_review.txt)
   - [Practice Exam](https://kellyn-larson.github.io/practice_final.pdf)
   - [Practice Exam Solutions](https://kellyn-larson.github.io/practice_answers.pdf)
+
+### Final Exam December 8th 10:15AM-12:15PM
+### Room Assigments
+  - **Section A(Monday): MZ 026**
+  - **Section B(Wednesday): MZ 022**
+  - **Section C(Friday): CT B60**
