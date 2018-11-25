@@ -167,6 +167,6 @@ Here is the tentative schedule of topics covered during this course, which is su
  - `stat'
 
 ## Final Exam Review
-  - Review Guide
+  - [Review Guide](https://kellyn-larson.github.io/final_review.txt)
   - [Practice Exam](https://kellyn-larson.github.io/practice_final.pdf)
-  - [Practice Exam Solutions](https://kellyn-github.io/practice_answers.pdf)
+  - [Practice Exam Solutions](https://kellyn-larson.github.io/practice_answers.pdf)
