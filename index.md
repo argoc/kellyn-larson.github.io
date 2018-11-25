@@ -171,8 +171,8 @@ Here is the tentative schedule of topics covered during this course, which is su
   - [Practice Exam](https://kellyn-larson.github.io/practice_final.pdf)
   - [Practice Exam Solutions](https://kellyn-larson.github.io/practice_answers.pdf)
 
-# Final Exam December 8th 10:15AM-12:15PM
-# Room Assigments
+## Final Exam December 8th 10:15AM-12:15PM
+## Room Assigments
   - **Section A(Monday): MZ 026**
   - **Section B(Wednesday): MZ 022**
   - **Section C(Friday): CT B60**
