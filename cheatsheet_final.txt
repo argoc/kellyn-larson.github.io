@@ -1,0 +1,25 @@
+========================================
+= Assignment - Submit Final Cheatsheet =
+========================================
+
+Your CHEATSHEET.lnx should have sufficient notes on
+all topics discussed during the semester. Make sure 
+your formattting is reasonably organized and easy to read.
+
+You will be able to use this cheatsheet on the final 
+during terminal time. 
+
+Hint
+====
+Remember that you can rename a file using the mv command. 
+
+Submission
+==========
+To submit your file, simply upload CHEATSHEET.LNX to Canvas. 
+
+Rubric
+======
+[1 pt] Correct Submission
+[2 pts] Name your file CHEATSHEET.lnx 
+[3 pts] Formatting 
+[4 pts] Sufficient notes 
