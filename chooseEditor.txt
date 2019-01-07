@@ -7,7 +7,7 @@ Description
 In class, we briefly introduced the vim and emacs editors. Now, you've got to
 pick (at least) one to get familiar with.
 
-You must fill out this form     https://goo.gl/forms/p0G5JtUyDXfMAQcs2
+You must fill out this form   https://goo.gl/forms/YpDX382ZeJaiptry2
 
 It will ask:
     1. Which editor you have chosen for the course
