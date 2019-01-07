@@ -27,7 +27,7 @@ To SSH onto one of the Linux servers on campus through PuTTY, do the following:
 To copy a file from a Linux server to a local Windows machine using pscp, do
 the following FROM YOUR WINDOWS MACHINE:
 
-    1. Open Command Prompt.
+    1. Open a Command Prompt on your WINDOWS machine (not PUTTY).
 
     2. Run the command:
 
