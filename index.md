@@ -65,10 +65,17 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `read`
  
 ## Week 5 
- - UnixHistory.sh Assignment Description
- - Wildcards and globbing
- - Quoting
- - `bash` Scripting
+ - [UnixHistory.sh Assignment Description](https://kellyn-larson.github.io/UnixHistoryDescription.txt) - **Due March 1st by 11:59PM**
+ - [Wildcards and globbing](https://kellyn-larson.github.io/WildCardNotes.txt)
+     * \*
+     * ?
+     * Bracket Usage: [abc], [A-C], [!a], etc
+     * Brace Expansion: {A..Z}, {A,B,C}, etc
+ - [Quoting](https://kellyn-larson.github.io/quotes-rules.txt)
+     * 'Single Quotes' vs. "Double Quotes"
+ - [`bash` Scripting](http://tldp.org/LDP/abs/html/)
+     * Example: [shell-dessert.sh](https://kellyn-larson.github.io/shell-dessert.sh)
+     * `-e` and `-x` flags
 
  
 ## Week 6 
@@ -76,6 +83,12 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Exit Status: $?
  - Command Line Arguments for shell scripts
  - Loop Constructs: while-do-done
+ 
+### Midterm Marth 7th 7:30 - 9:00 PM
+### Room Assignments
+  - **Section A (Monday): MZ 026**
+  - **Section B (Wednesday): MZ 022**
+  - **Section C (Friday): CT B56**
  
 ## Week 7 
  - Quoth.sh Assignment Description
