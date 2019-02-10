@@ -84,7 +84,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Command Line Arguments for shell scripts
  - Loop Constructs: while-do-done
  
-### Midterm Marth 7th 7:30 - 9:00 PM
+### Midterm March 7th 7:30 - 9:00 PM
 ### Room Assignments
   - **Section A (Monday): MZ 026**
   - **Section B (Wednesday): MZ 022**
