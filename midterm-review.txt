@@ -26,6 +26,7 @@ Commands to Be Familiar With
     - rm and its -r option
     - bash and its -e and -x options
     - mkdir and its -p option
+    - tar and how to extract (-xvf) archived files and create (-cvf) archived files
     - rmdir 
     - pwd 
     - mv
@@ -64,5 +65,5 @@ Misc
     - Exit status, $?
         - What a zero vs. non-zero code means
         - How to view it at the terminal
-    - Control signals (Ctrl-C, Ctrl-D, Ctrl-L, Ctrl-Z, Ctrl-R)
+    - Control signals (Ctrl-C, Ctrl-D)
 	    - The difference between Ctrl-C (SIGINT) and Ctrl-D (EXIT)
