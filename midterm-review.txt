@@ -66,4 +66,4 @@ Misc
         - What a zero vs. non-zero code means
         - How to view it at the terminal
     - Control signals (Ctrl-C, Ctrl-D)
-	    - The difference between Ctrl-C (SIGINT) and Ctrl-D (EXIT)
+	    - The difference between Ctrl-C (SIGINT) and Ctrl-D (EOF)
