@@ -79,10 +79,20 @@ Here is the tentative schedule of topics covered during this course, which is su
 
  
 ## Week 6 
- - Control Signals
- - Exit Status: $?
+ - [Control Signals](https://ss64.com/bash/syntax-keyboard.html)
+      * CTRL-C
+      * CTRL-D
+      * CTRL-Z
+      * CTRL-L
+      * CTRL-R
+ - [Exit Status: $?](https://bash.cyberciti.biz/guide/The_exit_status_of_a_command)
  - Command Line Arguments for shell scripts
+      * $0, $1, $2...
+      * $# and $@
+      * Example: [args.sh](https://kellyn-larson.github.io/args.sh)
  - Loop Constructs: while-do-done
+      * Example: [tlw.sh](https://kellyn-larson.github.io/tlw.sh)
+ - [Midterm Review](https://kellyn-larson.github.io/midterm-review.txt)
  
 ### Midterm March 7th 7:30 - 9:00 PM
 ### Room Assignments
