@@ -118,9 +118,11 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Script `exit` status 
  
 ## Week 8 
- - TitleCheck.sh Assignment Description
+ - [TitleCheck.sh Assignment Description](https://kellyn-larson.github.io/TitleCheckDescription.txt) - **Due April 5th by 11:59PM**
  - Go over midterm 
  - Pattern-centric Control Structures
+      * [case-in-esac](https://kellyn-larson.github.io/case.sh)
+      * [for-do-done](https://kellyn-larson.github.io/for.sh)
  
 ## Week 9 
  - Common Pipeline Utilities
