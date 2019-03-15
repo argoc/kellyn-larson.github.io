@@ -87,6 +87,9 @@ Hints
 
 6. The full credit solution is straight-forward algorithmic problem solving --- it
    doesn't rely on a Linux trick or specialized Unix knowledge outside of these tips.
+   
+7. Make sure you have LC_COLLATE set to C. Run export LC_COLLATE=C on the command line or put LC_COLLATE=C
+   at the top of your script. 
 
 Submission
 ==========
