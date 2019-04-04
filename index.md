@@ -146,7 +146,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * Bracket usage: [abc], [A-C], [^a], etc. 
      * Anchoring: ^ and $
      * Extended Regular Expressions: ?, +, (), \|, {n} 
-     * [regex](https://kellyn-larson.github.io/regex.tar.bz)
+     * Examples: [regex.tar.bz](https://kellyn-larson.github.io/regex.tar.bz)
  
 ## Week 11  
  - Identity, Ownership, and Permissions
