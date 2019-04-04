@@ -137,9 +137,16 @@ Here is the tentative schedule of topics covered during this course, which is su
  - [Pipeline Exercises Answers](https://kellyn-larson.github.io/pipeline_solutions.txt)
  
 ## Week 10 
- - LiteLifting.sh Assignment Description
- - Stream Editing
- - Regular Expressions
+ - [LiteLifting.sh Assignment Description](https://kellyn-larson.github.io/LiteLiftingDescription.txt) - **Due April 26th by 11:59PM**
+ - [Stream Editing](https://kellyn-larson.github.io/12_sed.pdf)
+     * `sed`
+ - Regular Expressions (regex)
+     * .
+     * \*
+     * Bracket usage: [abc], [A-C], [^a], etc. 
+     * Anchoring: ^ and $
+     * Extended Regular Expressions: ?, +, (), \|, {n} 
+     * [regex](https://kellyn-larson.github.io/regex.tar.bz)
  
 ## Week 11  
  - Identity, Ownership, and Permissions
