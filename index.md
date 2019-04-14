@@ -160,6 +160,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `chgrp`
      * `sg`
      * `su`
+     * `umask`
  
 ## Week 12 
  - CHEATSHEET.lnx Final Submission Description
