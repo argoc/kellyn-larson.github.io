@@ -149,7 +149,17 @@ Here is the tentative schedule of topics covered during this course, which is su
      * Examples: [regex.tar.bz](https://kellyn-larson.github.io/regex.tar.bz)
  
 ## Week 11  
- - Identity, Ownership, and Permissions
+  - [Identity, Ownership, and Permissions](https://kellyn-larson.github.io/13_permissions.pdf)
+     * `chmod`
+     * `chown`
+     * `id`
+     * `users`
+     * `who`
+     * `newgrp`
+     * `sudo`
+     * `chgrp`
+     * `sg`
+     * `su`
  
 ## Week 12 
  - CHEATSHEET.lnx Final Submission Description
