@@ -53,9 +53,16 @@ Here is the tentative schedule of topics covered during this course, which is su
    * Example tarball: [example.tar.bz](https://kellyn-larson.github.io/example.tar.bz)
  
 ## Week 4 
- - [CHEATSHEET.LNX Submission Description]
- - [I/O Manipulation]
- - [Variables]
+ - [CHEATSHEET.LNX Submission Description](https://kellyn-larson.github.io/cheatsheetsubmission.txt) - **Due September 27 by 11:59PM**
+ - [I/O Manipulation](https://kellyn-larson.github.io/IONotes.txt)
+     * Standard input (STDIN), output (STDOUT), and error (STDERR)
+     * Redirection <, >, >>, 2>, 2>>
+     * Pipeline \| 
+     * /dev/null
+ - [Variables](https://kellyn-larson.github.io/VariablesNotes.txt)
+     * Environment vs local/shell variables
+     * `export`
+     * `read`
  
 ## Week 5 
  - [UnixHistory.sh Assignment Description]
@@ -71,6 +78,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Loop Constructs: while-do-done
  - [Midterm Review]
  
+ ### Midterm October 10th 7:30 - 9:00 PM
  
 ## Week 7 
 - [Quoth.sh Assignment Description]
