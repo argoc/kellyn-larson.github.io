@@ -79,7 +79,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - Loop Constructs: while-do-done
  - [Midterm Review]
  
- ### Midterm October 10th 7:30 - 9:00 PM
+### Midterm October 10th 7:30 - 9:00 PM
  
 ## Week 7 
 - [Quoth.sh Assignment Description]
