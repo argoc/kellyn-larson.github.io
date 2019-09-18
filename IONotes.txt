@@ -12,7 +12,7 @@ Symbol	  - Description
             EX: read < new.txt HELLO, the value of variable HELLO is becomes the contents of the new.txt file, 
 	    rather than requiring the user to input the value at the terminal
 
->2/>>2    - Redirects standard error to a file, 
+2>/2>>    - Redirects standard error to a file, 
             EX: cat does_not_exist >2 stderr, stderr now contains the error, 
                 use >>2 to append to a file
 
