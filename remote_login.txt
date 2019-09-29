@@ -53,3 +53,9 @@ For example, say I am copying the file "test.txt" from my home directory
 the root of my Z drive ("Z:\"). Then I would run the following command:
 
     pscp kellarso@isengard.mines.edu:/u/ca/dc/kellarso/test.txt Z:\
+
+Anoter Note: If you are using your own laptop to transfer a file, you might
+want to try scp as opposed to pscp. In the following, I use the '.' as my destination
+path in order to place the file in the working directory of my HOST machine: 
+
+    scp kellarso@isengard.mines.edu:/u/ca/dc/kellarso/test.txt . 
