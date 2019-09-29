@@ -94,6 +94,7 @@ Here is the tentative schedule of topics covered during this course, which is su
  - [Midterm Review](https://kellyn-larson.github.io/midterm-review.txt)
  
 ### Midterm October 10th 7:30 - 9:00 PM
+### Room Assignments
   - **Section A: MZ 026**
   - **Section B: MZ 022**
   - **Section C: TBA**
