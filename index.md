@@ -84,8 +84,6 @@ Here is the tentative schedule of topics covered during this course, which is su
       * CTRL-C
       * CTRL-D
       * CTRL-Z
-      * CTRL-L
-      * CTRL-R
  - [Exit Status: $?](https://bash.cyberciti.biz/guide/The_exit_status_of_a_command)
  - Command Line Arguments for shell scripts
       * $0, $1, $2...
