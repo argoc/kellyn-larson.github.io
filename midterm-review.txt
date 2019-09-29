@@ -27,7 +27,7 @@ Commands to Be Familiar With
     - rm and its -r option
     - bash and its -e and -x options
     - mkdir and its -p option
-    - tar and how to extract and create (-cvf)  tar archived files (tarball files)
+    - tar and how to extract (-xvf) and create (-cvf)  tar archived files (tarball files)
     - rmdir 
     - pwd 
     - mv
