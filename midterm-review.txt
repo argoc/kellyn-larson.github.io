@@ -13,8 +13,9 @@ Terminal basics
     
     - Understand the information displayed in the bash prompt, for example:
 	   kellarso0@isengard:~/linux$	
-	   This prompt says I have a shell running on Host ______ as User ______ and my working directory is _________?
+	   This prompt says I have a shell running on Host isengard as User kellarso and my working directory is ~/linux
     - Simple file navigation 
+    - The difference between using relative and absolute paths 
     - Know the meaning of ~, ., and ..
     - The importance of capitalization
 
@@ -26,7 +27,7 @@ Commands to Be Familiar With
     - rm and its -r option
     - bash and its -e and -x options
     - mkdir and its -p option
-    - tar and how to extract (-xvf) archived files and create (-cvf) archived files
+    - tar and how to extract and create (-cvf)  tar archived files (tarball files)
     - rmdir 
     - pwd 
     - mv
@@ -41,7 +42,7 @@ Variables
     - The different ways to set and see the contents of shell variables
     - The difference between 'single' and "double" quotes
     - Curly braces in variables
-    - What happens when you try to echo an unset variable
+    - What happens when you try to echo an unset variable (a variable that has no value set)
 
 Wildcards
     
@@ -50,20 +51,20 @@ Wildcards
 
 Basic Bash scripting
     
-    - Command line arguments
+    - Command line arguments, using $1,$2,...
     - Be able to describe what a simple script does
     - Be able to write a simple script
-	- How while-loops are structured
+    - Know how while-loops are structured
 
 I/O Manipulation/Redirection
     
-    - Using the echo command
-    - <, >, >>, 2>, 2>>, and |
+    - Using the echo command with redirection
+    - <, >, >>, 2>, 2>>
 
 Misc
 
     - Exit status, $?
         - What a zero vs. non-zero code means
-        - How to view it at the terminal
+        - What command you can execute to view it at the terminal 
     - Control signals (Ctrl-C, Ctrl-D)
 	    - The difference between Ctrl-C (SIGINT) and Ctrl-D (EOF)
