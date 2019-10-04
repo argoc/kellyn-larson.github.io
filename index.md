@@ -97,7 +97,7 @@ Here is the tentative schedule of topics covered during this course, which is su
 ### Room Assignments
   - **Section A: MZ 026**
   - **Section B: MZ 022**
-  - **Section C: CT B60**
+  - **Section C: BB 316A/B**
  
 ## Week 7 
 - [Quoth.sh Assignment Description]
