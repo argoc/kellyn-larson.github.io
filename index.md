@@ -99,8 +99,7 @@ Here is the tentative schedule of topics covered during this course, which is su
   - **Section B (Wednesday): MZ 022**
   - **Section C (Friday, Last Name A-M): BB 316A**
   - **Section C (Friday, Last Name N-Z): BB 316B**
- 
-## Week 7 
+
 ## Week 7 
  - [Quoth.sh Assignment Description](https://kellyn-larson.github.io/QuothDescription.txt) ([quotes.tar.gz](https://kellyn-larson.github.io/quotes.tar.gz)) - **Due October 25th by 11:59PM**  
  - [Process Control](https://kellyn-larson.github.io/07_Process_Control.pdf) 
