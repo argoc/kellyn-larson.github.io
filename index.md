@@ -95,14 +95,27 @@ Here is the tentative schedule of topics covered during this course, which is su
  
 ### Midterm October 10th 7:30 - 9:00 PM
 ### Room Assignments
-  - **Section A: MZ 026**
-  - **Section B: MZ 022**
-  - **Section C: BB 316A/B**
+  - **Section A (Monday): MZ 026**
+  - **Section B (Wednesday): MZ 022**
+  - **Section C (Friday, Last Name A-M): BB 316A**
+  - **Section C (Friday, Last Name N-Z): BB 316B**
  
 ## Week 7 
-- [Quoth.sh Assignment Description]
- - [Process Control]
+## Week 7 
+ - [Quoth.sh Assignment Description](https://kellyn-larson.github.io/QuothDescription.txt) ([quotes.tar.gz](https://kellyn-larson.github.io/quotes.tar.gz)) - **Due October 25th by 11:59PM**  
+ - [Process Control](https://kellyn-larson.github.io/07_Process_Control.pdf) 
+      * `top`
+      * `ps`
+      * `nice`
+      * `jobs`
+      * `fg`
+      * `kill`
  - Conditional Constructs 
+      * `test`
+      * `true`
+      * `false`
+      * if-then-else
+      * Example: [decisions.sh](https://kellyn-larson.github.io/decisions.sh)
  - Script `exit` status 
  
 ## Week 8 
