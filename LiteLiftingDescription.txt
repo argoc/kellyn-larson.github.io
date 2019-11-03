@@ -78,7 +78,7 @@ XXX in each of the lines of output above. If you're still confused, you can send
 me an email!
 1. wc anyone?
 2. tr -d before wc ...
-3. Expensive carrot? (An empty line has no white space, no visible characters.)
+3. Expensive carrot? (An empty line is one that has no characters between the beginning of the line and the end of the line)
 4. Remove newlines with tr, and characters not in 0-9a-zA-Z with sed :)
 5. We can filter lines with sed printing mode. How can we look at specific fields
    of that line afterward?
