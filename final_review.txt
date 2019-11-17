@@ -9,7 +9,7 @@ Text Editors
         - exit without saving
         - save without exiting
         - save and exit
-        - search in the file
+        - search and replace in the file
 
 Terminal basics
     
