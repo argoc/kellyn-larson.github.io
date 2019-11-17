@@ -162,7 +162,7 @@ Here is the tentative schedule of topics covered during this course, which is su
      * `su`
  
 ## Week 12 
- - [CHEATSHEET.lnx Final Submission Description](https://kellyn-larson.github.io/cheatsheet_final.txt) **Due December 6th by 11:59PM**
+ - [CHEATSHEET.LNX Final Submission Description](https://kellyn-larson.github.io/cheatsheet_final.txt) **Due December 6th by 11:59PM**
  - [Inodes and Linking](https://kellyn-larson.github.io/14_Inodes_and_Linking.pdf)
      * `ln`
      * `stat`
