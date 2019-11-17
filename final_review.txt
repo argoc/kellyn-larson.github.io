@@ -59,7 +59,8 @@ Permissions
         - how to specify permissions directly, e.g., u=rwx,g=r,o=x
         - the -R option
     - Identify permissions, owners, and groups from ls -l output
-    - Understand how umask affects default permissions of new files and directories
+    - umask
+    	- Understand how umask affects default permissions of new files and directories
 
 Inodes/Linking
     - Determine link information (number of hard links, whether a file is a soft link, etc) 
